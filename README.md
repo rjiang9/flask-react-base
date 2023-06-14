@@ -1,6 +1,8 @@
 Quick Flask-React setup
 ========================
 
+ref: https://dev.to/nagatodev/how-to-connect-flask-to-reactjs-1k8i
+
 
 ```
 cd ~projects/
